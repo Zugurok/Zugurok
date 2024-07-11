@@ -1,4 +1,4 @@
-<h1 align="center">Saudações, Me chamo Vinícius Pessoa</h1>
+<h1 align="center">Saudações, me chamo Vinícius Pessoa</h1>
 <h3 align="center">Python | Power BI | Electrical Engineer</h3>
 
 - 🌱 Aprendizado continuo em **Python, Excel, Power BI**
