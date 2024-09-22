@@ -3,7 +3,7 @@
 
 - 🌱 Aprendizado continuo em **Python, Excel, Power BI**
 
-- 📫 Me encontre no e-mail **viniciuspessoa1997@gmail.com**
+- 📫 Me encontre no e-mail **viniciuspessoa1997@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
